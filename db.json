@@ -1,5 +1,9 @@
 {
     "users": [
-        
-    ]
+        {
+          "email": "mung@gmail.com",
+          "password": "$2a$10$hm9FmlAUsm66RvWctG2uu.CSKKztRZPOxfexky/LM9PKGLq/NKQMu",
+          "id": 1
+        }
+      ]
 }
